@@ -1,0 +1,9 @@
+.history
+/node_modules/
+/dist/
+/test/e2e/builds/
+tmp/**
+!tmp/routes.js
+!tmp/config.js
+*.bak
+*.orig
